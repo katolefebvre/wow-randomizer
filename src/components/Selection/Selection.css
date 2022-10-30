@@ -1,0 +1,15 @@
+.container {
+   position: relative;
+   text-align: center;
+   color: white;
+}
+
+.text-result {
+   background-color: rgba(0, 0, 0, 0);
+   font-size: 30px;
+   text-shadow: 1px 1px 0 #000;
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+}
